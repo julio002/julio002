@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Júlio César
 
 - 🔭 Hoje faço projetos em back-end
-- 🌱 Estou estudando Node js com Typescript e PHP com Yii 
+- 🌱 Estou estudando Node js com Typescript e PHP com Yii2
 - 😁 Pronouns: ele/dele
 
 <div align="center">
