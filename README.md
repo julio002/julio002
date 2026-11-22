@@ -1,34 +1,26 @@
-## Olá! Eu sou o Júlio César
+## Hi, I'm Júlio César 👋
 
-- 🔭 Hoje faço projetos em back-end
-- 🌱 Estou estudando Nest Js, Node js com Typescript e PHP com Yii2
-- 😁 Pronouns: ele/dele
+Software engineer from Brazil working on **AI agents and automation**. I build systems that take repetitive work off people: document AI that extracts and validates data from PDFs and images, WhatsApp conversational agents, and integrations between CRMs, APIs and internal tools.
 
-<div align="center">
-  <a href="https://github.com/julio002">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julio002&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julio002&layout=compact&langs_count=7&theme=dark"/>
-</div>
+- 🔭 **Now:** AI & integrations at **Dynadok** (Brazil) and Senior Developer, AI & Automation at **4Improvements** (Lisbon), both remote
+- 🛠️ **Building in public:** [**ai-document-validator**](https://github.com/julio002/ai-document-validator), an API that extracts and validates document data with LLMs (NestJS + TypeScript), one step per week
+- 🧪 **Before:** development and QA on Tele Sena Virtual (Grupo Silvio Santos), and backend systems for clients since 2022
+- 💬 **Languages:** Portuguese (native), English (intermediate)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Julio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Julio-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Julio-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="Julio-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Julio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Julio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Julio-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Julio-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Julio-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Julio-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Julio-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Julio-Yii" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg">
-</div>
+### Stack
 
-##
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-  <div>
-    <a href="https://instagram.com/julio_c_tavares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:julio92563023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/julio-cesar002/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+### Contact
+
+<a href="https://www.linkedin.com/in/julio-cesar002/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:julio92563023@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
